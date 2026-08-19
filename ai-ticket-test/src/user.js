@@ -19,5 +19,6 @@ function login(usernameOrEmail, password) {
 }
 module.exports = {
     getUserName,
-    getUserEmail
+    getUserEmail,
+    login
 };
