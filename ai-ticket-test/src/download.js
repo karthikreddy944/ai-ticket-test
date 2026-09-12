@@ -12,4 +12,4 @@ function downloadFile(file) {
         });
 }
 
-module.exports = { downloadFile };
+module.exports = { downloadFie };
